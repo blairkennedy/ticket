@@ -1,2 +1,2 @@
 # ticket
-Getting familiar with python flask
+Getting familiar with Python flask
